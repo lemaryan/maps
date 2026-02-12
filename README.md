@@ -14,9 +14,6 @@ with supervised linear regression to predict restaurant ratings
 - Python
 
 ## How to Run
-1. Clone the respository
-git clone <repository-url> 
+1. Clone the respository 
 2. Change directory to the project folder
-cd <project-folder>
 3. Run the program
-python recommended.py
